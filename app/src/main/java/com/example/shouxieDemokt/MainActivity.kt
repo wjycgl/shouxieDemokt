@@ -108,7 +108,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     companion object {
-
         @JvmStatic
         fun clearBoxWords() {
             Handler(getMainLooper()).post(Runnable {
