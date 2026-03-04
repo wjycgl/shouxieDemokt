@@ -6,7 +6,7 @@ SecondSurfaceView.kt为自定义的SurfaceView，用于显示手写轨迹。
 
 DigitalInkRecognizeTool.kt为下载语言模型的类。
 
-汉字手写输入法运行效果如下：
+汉字手写输入法Dmeo运行效果：
 
 ![shouxie](https://github.com/user-attachments/assets/753abfa3-e242-4aa6-8aa7-2dac7890b2b7)
 
